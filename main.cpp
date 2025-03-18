@@ -56,12 +56,6 @@ int main() {
         }
     }
     passwordFile.close();
-    //display total collisions
-    // for(int i = 0; i < passwordTable.size(); i++){
-    //     if(passwordTable[i].size() > 0){
-    //         cout<<i <<": "<< passwordTable[i].size() << endl;
-    //     }
-    // }
 
 
     int count = 0;
